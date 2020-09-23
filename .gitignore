@@ -83,3 +83,20 @@ build
 
 # lock files for examples and components
 dependencies.lock
+
+# Google Drive Icons
+Icon*
+
+# Subcomponent Files
+components/asio/asio
+components/bootloader/subproject/components/micro-ecc/micro-ecc
+components/bt/controller/lib
+components/esp_wifi/lib
+components/esptool_py/esptool
+components/expat/expat
+components/libsodium/libsodium
+components/mbedtls/mbedtls
+components/mqtt/esp-mqtt
+components/nghttp/nghttp2
+components/spiffs/spiffs
+components/unity/unity
